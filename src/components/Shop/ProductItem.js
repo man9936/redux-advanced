@@ -16,6 +16,7 @@ const ProductItem = (props) => {
         description,
       })
     );
+    
   };
 
   return (
